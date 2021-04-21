@@ -1,0 +1,17 @@
+td {
+	border: solid;
+}
+
+th {
+	border: solid;
+}
+
+table#uno {
+	border: solid ;
+	font-family: verdana;
+	background-image: url(../images/bg.png);
+}
+
+table#dos {
+	width: 100%
+}
